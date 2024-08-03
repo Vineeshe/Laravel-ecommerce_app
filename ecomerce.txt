@@ -1,0 +1,4 @@
+ecomerce:
+
+email: vineeshe007@gmail.com
+pass:vini123
